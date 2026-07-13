@@ -20,9 +20,15 @@
  Type yes if you are ready
  
  yes
+ 
  Great!
+ 
  Rock-Paper-Scissor Shoot!
+ 
  rock
+ 
    User choice: rock
+   
    Computer choice: paper
+   
    Computer wins
