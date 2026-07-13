@@ -13,13 +13,13 @@
 - if-else & switch statements
   
 ## Sample Output
-Lets play Rock-Paper-Scissor
-When I say 'shoot', Choose: rock, paper, or scissors.
-Type yes if you are ready
-yes
-Great!
-Rock-Paper-Scissor Shoot!
-rock
-  User choice: rock
-  Computer choice: paper
-  Computer wins
+ Lets play Rock-Paper-Scissor
+ When I say 'shoot', Choose: rock, paper, or scissors.
+ Type yes if you are ready
+ yes
+ Great!
+ Rock-Paper-Scissor Shoot!
+ rock
+   User choice: rock
+   Computer choice: paper
+   Computer wins
